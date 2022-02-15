@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+<div align="center">
+🇳🇿 A Kiwi living in London, exploring the world 🗺️
+</div>
 
 ## About
-
-A Kiwi living in London, exploring the world.
-
 
 ### Language and Tools:
 
