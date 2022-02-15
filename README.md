@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About
 
-- A Kiwi living in London, exploring the world.
+A Kiwi living in London, exploring the world.
 
 
 ### Language and Tools:
