@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## About
 
-- 🌱 I’m currently learning Rust <img height="16" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
+- A Kiwi living in London, exploring the world.
 
 
 ### Language and Tools:
