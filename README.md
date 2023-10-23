@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 </div>
 <div align="center">
-🇳🇿 A Kiwi living in London, exploring the world 🗺️
+🇳🇿 A Kiwi exploring the world 🗺️, previously living in London 🇬🇧, now in Vancouver 🇨🇦
 </div>
 
 ## About
